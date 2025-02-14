@@ -30,7 +30,7 @@ callouts:
   info:
     color: green
  
-footer_content: "Copyright © 2024 Surrey EARS"
+footer_content: "Copyright © 2025 Surrey EARS"
 
 plugins:
  - jekyll-remote-theme
