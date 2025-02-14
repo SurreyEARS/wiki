@@ -1,0 +1,36 @@
+title: EARS
+description: EARS Github Page
+# The below theme statement is for the original just-the-docs theme, we are using our own fork, which is used with the remote_theme option.
+#theme: just-the-docs
+remote_theme: SurreyEARS/just-the-docs
+color_scheme: ears
+
+markdown: kramdown
+
+url: https://surreyears.github.io/
+
+logo: "media/EARS_github_logo.png"
+
+favicon_ico: "/media/favicon.ico"
+
+aux_links:
+  SU Site: 
+    https://surreyunion.org/EARS
+  GitHub:
+    https://github.com/SurreyEARS
+  Linktree:
+    https://linktr.ee/SurreyEARS
+
+color_scheme: ears
+
+callouts:
+  note:
+    color: purple
+ 
+  info:
+    color: green
+ 
+footer_content: "Copyright © 2024 Surrey EARS"
+
+plugins:
+ - jekyll-remote-theme

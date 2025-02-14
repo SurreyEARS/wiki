@@ -1,0 +1,23 @@
+{
+    "css": ".CALENDAR-INDEX-0, .CALENDAR-INDEX-0 .dhx_body, .CALENDAR-INDEX-0 .dhx_title { background-color: #b782b8; } .dhx_cal_agenda_event_line_marker { background-color: #1c1c1c; } .CALENDAR-INDEX-1, .CALENDAR-INDEX-1 .dhx_body, .CALENDAR-INDEX-1 .dhx_title  { background-color: #fffbbd; } .CALENDAR-INDEX-2, .CALENDAR-INDEX-2 .dhx_body, .CALENDAR-INDEX-2 .dhx_title  { background-color: #dc8add; }",
+    "ending_hour": "18",
+    "hour_format": "%g:%i %a",
+    "prefer_browser_language": true,
+    "skin": "flat",
+    "specification_url": "https://open-web-calendar.quelltext.eu/assets/templates/rooms.json",
+    "start_of_week": "mo",
+    "starting_hour": "8",
+    "tab": "agenda",
+    "tabs": [
+      "month",
+      "week",
+      "day",
+      "agenda"
+    ],
+    "timezone": "Europe/London",
+    "title": "EARS Events",
+    "url": [
+      "https://calendar.google.com/calendar/ical/surreyears%40gmail.com/public/basic.ics",
+      "https://calendar.google.com/calendar/ical/3biqr11n9bud2240u502jikgmk%40group.calendar.google.com/public/basic.ics"
+    ]
+  }
